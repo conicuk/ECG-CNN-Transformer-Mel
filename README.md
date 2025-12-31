@@ -1,4 +1,5 @@
 # ECG-SleepTransformer
+Official implementation of "ECG-based Sleep Stage Classification using a CNN–Transformer with Mel-Spectrogram Representation".
 
 Latest Update: 2025/12/31
 
