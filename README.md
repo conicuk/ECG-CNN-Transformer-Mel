@@ -1,6 +1,6 @@
-# ECG-CNN-Transformer-Mel
+# ECG-SleepTransformer
 
-Latest Update: 2025/12/28
+Latest Update: 2025/12/31
 
 PyTorch code for "End-to-End Sleep Stage Classification from Single-Channel ECG via Mel-Spectrogram and Hybrid CNN-Transformer Encoder" using:
 - 🎛️ Mel-spectrogram preprocessing
