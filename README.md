@@ -1,7 +1,7 @@
 # ECG-SleepTransformer
 Official implementation of "ECG-based Sleep Stage Classification using a CNN–Transformer with Mel-Spectrogram Representation".
 
-Latest Update: 2026/03/03
+Latest Update: 2026/03/20
 
 PyTorch code for preprocessing, training, and evaluation, including:
 - 🎛️ Mel-spectrogram preprocessing
